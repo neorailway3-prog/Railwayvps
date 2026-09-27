@@ -5,8 +5,8 @@ set -e
 # HARDCODED LOGIN DETAILS
 # ==============================
 
-SSH_USER="ipx"
-SSH_PASSWORD="DESTROYER009@a"
+SSH_USER="neo"
+SSH_PASSWORD="blaze1234"
 
 # ==============================
 # CREATE SSH USER
